@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\slava\\desktop\\lab1\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\slava\\desktop\\lab1\\windowsformsapp1\\windowsformsapp1\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\windowsformsapp1\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,14 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MealPlan.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MealPlan.cs",
+              "ToolTip": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlan.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\MealPlan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:48:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\Recipe.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Recipe.cs",
+              "ToolTip": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\Recipe.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:47:42.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:44:32.916Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-21T18:44:32.916Z"
             }
           ]
         }
