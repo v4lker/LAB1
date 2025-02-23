@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mealplanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\slava\\desktop\\lab1\\windowsformsapp1\\windowsformsapp1\\mealplanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\windowsformsapp1\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\windowsformsapp1\\mealplanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mealplanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\slava\\desktop\\lab1\\windowsformsapp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\slava\\desktop\\lab1\\windowsformsapp1\\windowsformsapp1\\mealplanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\windowsformsapp1\\mealplanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mealplanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\slava\\desktop\\lab1\\windowsformsapp1\\windowsformsapp1\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3261239-18D8-410E-B425-9BFA2A24B5A1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\windowsformsapp1\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:23:57.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T13:23:57.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MealPlanForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlanForm.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\MealPlanForm.Designer.cs",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\MealPlanForm.Designer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:23:30.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T13:23:30.346Z"
             },
             {
               "$type": "Document",
@@ -70,23 +68,22 @@
               "RelativeDocumentMoniker": "WindowsFormsApp1\\MealPlanForm.cs",
               "ToolTip": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlanForm.cs*",
               "RelativeToolTip": "WindowsFormsApp1\\MealPlanForm.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T13:22:54.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MealPlan.cs",
               "DocumentMoniker": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlan.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\MealPlan.cs",
               "ToolTip": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlan.cs",
               "RelativeToolTip": "WindowsFormsApp1\\MealPlan.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wEsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:48:28.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T18:48:28.957Z"
             },
             {
               "$type": "Document",
@@ -102,15 +99,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MealPlanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlanForm.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\MealPlanForm.cs",
-              "ToolTip": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "WindowsFormsApp1\\MealPlanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\slava\\Desktop\\LAB1\\WindowsFormsApp1\\WindowsFormsApp1\\MealPlanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\MealPlanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:44:32.916Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-21T18:44:32.916Z"
             }
           ]
         }

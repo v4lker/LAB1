@@ -20,8 +20,8 @@ namespace WindowsFormsApp1
         public MealPlanForm()
         {
             this.Text = "Планирование меню";
-            this.Width = 400;
-            this.Height = 350;
+            this.Width = 407;
+            this.Height = 370;
             CreateControls();
             mealPlan = new MealPlan(listView);
         }
